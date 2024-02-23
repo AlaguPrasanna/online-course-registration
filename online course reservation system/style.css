@@ -1,0 +1,101 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.main-background {
+    background-color:rgb(0, 127, 232);
+   
+}
+
+.navbar-heading {
+    font-family: 'Roboto';
+    font-weight: bold;
+}
+
+.container1
+{
+    margin-bottom: 50px;
+}
+.container2
+{
+    margin-top: 30px;
+    margin-bottom: 50px;
+}
+
+.card {
+    background-color:silver;
+    border-radius: 15px;
+    height: 550px;
+    
+}
+
+.custom-food-img {
+    height: 350px;
+}
+
+.heading-card {
+    padding-top: 5px;
+    color: #2D4356;
+    font-size: 25px;
+}
+
+.paragraph-card {
+    color: #2D4356;
+    padding-bottom: 20px;
+}
+
+
+
+.bg-container {
+    background-color: #0d2436;
+}
+
+.custom-logo {
+    height: 50px;
+    width: 120px;
+}
+
+.icon {
+    background-color: #152c3e;
+    height: 40px;
+    width: 40px;
+    border-radius: 20px;
+}
+
+.custom-icon {
+    color: #5a7184;
+    padding-top: 13px;
+    padding-left: 11px;
+}
+
+p {
+    color:white;
+    font-size: 13px;
+    margin-bottom: 0px;
+}
+
+h1 {
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+}
+h5 {
+    color: black;
+    font-size: 18px;
+    font-weight: bold;
+}
+a{
+    color: white;
+}
+.line {
+    background-color: #5a7184;
+}
+.about
+{
+    justify-content: space-between;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-bottom: 50px;
+    margin-top: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
